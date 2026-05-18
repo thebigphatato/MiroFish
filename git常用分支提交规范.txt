@@ -1,0 +1,10 @@
+main                  稳定版本
+dev                   日常开发整合分支
+feat/backend-xxx      后端新功能
+feat/frontend-xxx     前端新功能
+fix/xxx               修 bug
+docs/xxx              文档修改
+refactor/xxx          重构
+
+
+我们都从这个dev分支中拉代码，臭肥俊
